@@ -1,0 +1,13 @@
+{
+"companyName": "Duck Island",
+"productName": "Gravity Shift",
+"dataUrl": "Web Version.data.unityweb",
+"asmCodeUrl": "Web Version.asm.code.unityweb",
+"asmMemoryUrl": "Web Version.asm.memory.unityweb",
+"asmFrameworkUrl": "Web Version.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
